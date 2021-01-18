@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   17/enero/2021
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/dividir-una-cadena-en-python/
 # @description Divide una cadena por un separador y la recorre
 # ##
 
