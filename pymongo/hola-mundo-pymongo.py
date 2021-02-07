@@ -12,5 +12,5 @@ db = client.usuarios
 users = db.users
 
 # Imprimimos el primer resultado
-print users.find_one()
+print (users.find_one())
 

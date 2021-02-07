@@ -8,8 +8,8 @@
 # ##
 
 numero = '5'
-print numero
+print (numero)
 
 # Añadios dos ceros a la izquierda
 numero = numero.zfill(3)
-print numero
+print (numero)

@@ -20,4 +20,4 @@ searchuser = {
 # Insertamos el documento
 resultado = users.update_many(searchuser,{"$set": {"edad":31}})
 
-print 'Numero de documentos modificados ' + str(resultado.modified_count)
+print ('Numero de documentos modificados ' + str(resultado.modified_count))

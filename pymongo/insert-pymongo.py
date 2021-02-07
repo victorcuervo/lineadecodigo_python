@@ -21,4 +21,4 @@ user = {
 # Insertamos el documento
 resultado = users.insert_one(user)
 
-print 'Objeto instertado ' + str(resultado.inserted_id)
+print ('Objeto instertado ' + str(resultado.inserted_id))

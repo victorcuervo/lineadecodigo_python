@@ -15,5 +15,5 @@ listado = db.listado
 usuarios = listado.find()
 
 for usuario in usuarios:
-    print usuario
+    print (usuario)
 

@@ -20,4 +20,4 @@ deleteuser = {
 # Insertamos el documento
 resultado = users.delete_many(deleteuser)
 
-print 'Numero de documentos eliminados ' + str(resultado.deleted_count)
+print ('Numero de documentos eliminados ' + str(resultado.deleted_count))

@@ -8,7 +8,7 @@ DIRECTORIO = '/midirectorio/'
 
 conn = tinys3.Connection(S3_ACCESS_KEY,S3_SECRET_KEY,BUCKET,endpoint='s3-eu-west-1.amazonaws.com')
 
-print '-- Borrado Directorio S3 --'
+print ('-- Borrado Directorio S3 --')
 
 lista = conn.list(DIRECTORIO,BUCKET)
 
@@ -19,4 +19,4 @@ for fichero in lista:
 # Borramos el directorio
 conn.delete(DIRECTORIO)
 
-print '-- Fin Borrado Directorio S3 --'
+print ('-- Fin Borrado Directorio S3 --')

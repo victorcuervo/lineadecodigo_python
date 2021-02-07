@@ -5,7 +5,7 @@ def listar (lista):
         if isinstance(n,list):
             listar(n)
         else:
-            print n
+            print (n)
 
 lista = [1,2,3,['a','b','c','d'],4,5]
 listar(lista)

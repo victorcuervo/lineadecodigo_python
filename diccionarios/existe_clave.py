@@ -13,6 +13,6 @@ colores = {'rojo':'red','azul':'blue','verde':'green'}
 print colores['rojo']
 
 if 'amarillo' in colores:
-    print colores['amarillo']
+    print (colores['amarillo'])
 else:
-    print 'No hay traducción para el color amarillo'
+    print ('No hay traducción para el color amarillo')
