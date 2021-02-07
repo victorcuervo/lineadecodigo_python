@@ -10,7 +10,7 @@
 
 colores = {'rojo':'red','azul':'blue','verde':'green'}
 
-print colores['rojo']
+print (colores['rojo'])
 
 if 'amarillo' in colores:
     print (colores['amarillo'])
