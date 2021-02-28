@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   7/febrero/2021
-# @url  http://lineadecodigo.com/python/rotar-lista-con-slicing-en-python/
+# @url  http://lineadecodigo.com/python/rotar-listas-con-slicing-en-python/
 # @description Rota los elementos de una lista con slicing
 # ##
 
@@ -12,10 +12,14 @@
 lista = [1,2,3,4,5,6,7,8,9]
 print (lista)
 
+print (lista[1:4])
+print (lista[-8:-5])
+
+
 # Rotar a derecha
 lista = lista[3:]+lista[:3]
 print (lista)
 
-# Rotar a derechas
+# Rotar a izquierdas
 lista = lista[-6:]+lista[:-6]
 print (lista)
