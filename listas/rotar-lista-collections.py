@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   7/febrero/2021
-# @url  http://lineadecodigo.com/python/rotar-lista-con-collections-en-python/
+# @url  http://lineadecodigo.com/python/rotar-listas-con-collections-en-python/
 # @description Rota los elementos de una lista con librería collections y el obejto deque
 # ##
 
@@ -18,6 +18,6 @@ lista = deque(lista)
 lista.rotate(3)
 print (list(lista))
 
-# Rotar a derechas
+# Rotar a izquierdas
 lista.rotate(-6)
 print (list(lista))
