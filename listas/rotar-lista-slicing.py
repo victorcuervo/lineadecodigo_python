@@ -12,10 +12,10 @@
 lista = [1,2,3,4,5,6,7,8,9]
 print (lista)
 
-# Rotar a derecha
+# Rotar a izquierda
 lista = lista[3:]+lista[:3]
 print (lista)
 
-# Rotar a izquierdas
+# Rotar a derecha
 lista = lista[-6:]+lista[:-6]
 print (lista)
