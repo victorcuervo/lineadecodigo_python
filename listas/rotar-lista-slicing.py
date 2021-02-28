@@ -12,10 +12,6 @@
 lista = [1,2,3,4,5,6,7,8,9]
 print (lista)
 
-print (lista[1:4])
-print (lista[-8:-5])
-
-
 # Rotar a derecha
 lista = lista[3:]+lista[:3]
 print (lista)
