@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   7/febrero/2021
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/eliminar-elementos-duplicados-de-una-lista-con-python/
 # @description Elimina los elementos duplicados de una lista
 # ##
 
