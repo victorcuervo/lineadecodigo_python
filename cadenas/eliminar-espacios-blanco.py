@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   17/enero/2021
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/eliminar-espacios-en-blanco-con-python/
 # @description Elimina espacios en blanco de una cadena
 # ##
 
@@ -16,7 +16,7 @@ cadena_uno = cadena.strip()
 print (cadena_uno)
 
 print ("---Cadena con .replace---")
-cadena_dos = cadena.replace(" ","")
+cadena_dos = cadena.replace("  ","").replace("\t","").replace("\n"," ")
 print (cadena_dos)
 
 print ("---Cadena con join---")
