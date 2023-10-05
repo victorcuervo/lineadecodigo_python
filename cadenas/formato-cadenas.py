@@ -15,5 +15,5 @@ print(s) #Los números son 5 y 10.
 s2 = "Te llamas {nombre}".format(nombre="Victor")
 print (s2)
 
-s = "Cadena {} + {}".format(5,1)
+s = "Los números son {} y {}".format(5,1)
 print (s)
