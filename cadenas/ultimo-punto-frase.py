@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   16/septiembre/2023
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/Último-punto-de-una-frase/
 # @description Encontrar el último punto en una frase con Python
 # ##
 
@@ -13,6 +13,7 @@ cadena = 'Estaba escribiendo un texto. Porque tenía que publicarlo. Era un text
 
 # Cortamos una parte para un resumen
 cadena = cadena[0:40]
+print (cadena)
 
 # Buscamos la posición del último punto para no dejar la frase a medias
 print ("El último punto está en la posición "  + str(cadena.rfind('.')))
