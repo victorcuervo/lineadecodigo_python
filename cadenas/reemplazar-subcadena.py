@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   17/septiembre/2023
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com//python/reemplazar-texto-con-python/
 # @description Reemplazamos una cadena por otra mediante la funciín replace - https://w3api.com/Python/str/replace/
 # ##
 
