@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   17/septiembre/2023
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/crear-un-fichero-xml-con-python/
 # @description Código que crea un fichero XML en Python
 # ##
 
