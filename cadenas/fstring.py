@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   6/octubre/2023
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/fstring-o-interpolacion-de-cadenas-en-python/
 # @description Uso de f-string o interpolación de cadenas
 # ##
 
