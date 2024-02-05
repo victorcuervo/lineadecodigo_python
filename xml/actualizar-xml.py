@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   16/septiembre/2023
-# @url  http://lineadecodigo.com/python/pdte/
+# @url  http://lineadecodigo.com/python/actualizar-un-fichero-xml-con-python/
 # @description Leer un fichero XML con Python
 # ##
 
