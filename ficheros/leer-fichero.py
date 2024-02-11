@@ -9,17 +9,17 @@
 
 from os import path
 
-fichero = "fichero.txt"
+nombre_fichero = "fichero.txt"
 
-if (path.exists(fichero)):
-    with open(fichero,"r") as fichero:
+if (path.exists(nombre_fichero)):
+    with open(nombre_fichero,"r") as fichero:
         print(fichero.read())
 
-    with open(fichero,"r") as fichero:
+    with open(nombre_fichero,"r") as fichero:
         for line in fichero:
             print(line)
 else:
-    print(f"El fichero {fichero} no existe")
+    print(f"El fichero {nombre_fichero} no existe")
 
 
 
