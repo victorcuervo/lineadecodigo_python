@@ -9,15 +9,17 @@
 
 from os import path
 
-nombre_fichero = "fichero.txt"
+nombre_fichero = "resources/texto.txt"
 
 if (path.exists(nombre_fichero)):
     with open(nombre_fichero,"r") as fichero:
         print(fichero.read())
 
+    numberline = 1
     with open(nombre_fichero,"r") as fichero:
-        for line in fichero:
-            print(line)
+        for linea in fichero:
+            print(f"{numberline}-{linea}")            
+            numberline = numberline+1
 else:
     print(f"El fichero {nombre_fichero} no existe")
 
