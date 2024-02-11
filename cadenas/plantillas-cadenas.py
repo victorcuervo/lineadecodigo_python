@@ -12,3 +12,7 @@ from string import Template
 
 t = Template('Hola, $nombre!')
 print (t.substitute(nombre='Victor'))
+
+t2 = Template('Hola, $nombre! ¿Dónde esta el $cosa?')
+print (t2.substitute({'nombre':'Victor','cosa':'coche'}))
+print (t2.substitute({'nombre':'Luis','cosa':'balón'}))
