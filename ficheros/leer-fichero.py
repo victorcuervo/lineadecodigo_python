@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   28/enero/2024
-# @url  http://lineadecodigo.com/python/xxx/
+# @url  https://lineadecodigo.com/python/leer-ficheros-con-python/
 # @description Lee el contenido de un fichero de golpe y línea a línea
 # ##
 
