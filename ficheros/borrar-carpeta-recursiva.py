@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   28/enero/2024
-# @url  http://lineadecodigo.com/python/xxx/
+# @url  http://lineadecodigo.com/python/borrar-carpetas-de-forma-recursiva-en-python/
 # @description Borra una carpeta y todo su contenido de forma recursiva
 # ##
 

@@ -3,7 +3,7 @@
 # @version 1.0
 # @author Víctor Cuervo - http://lineadecodigo.com
 # @date   28/enero/2024
-# @url  http://lineadecodigo.com/python/xxx/
+# @url  http://lineadecodigo.com/python/listar-un-directorio-en-python/
 # @description Lista el contenido de una carpeta
 # ##
 
